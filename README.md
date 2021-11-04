@@ -1,3 +1,2 @@
-# IoT
-
+# IoT Challenges: Security
 ## Gordan Konevski
